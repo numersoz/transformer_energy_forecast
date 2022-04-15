@@ -1,8 +1,6 @@
 # Building Electricity & Heat Forecasting Using LSTM & Transformers
 ==============================
 
-Power forecasting with lstms, transformers, etc.
-
 Contributors:
 Gregory Loshkajian (gloshkajian3@gatech.edu)
 Nilesh Domadia (ndomadia3@gatech.edu)
